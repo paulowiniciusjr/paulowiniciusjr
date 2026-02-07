@@ -41,14 +41,6 @@ I build software that is not only functional, but also **maintainable, reliable,
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=paulowiniciusjr&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Social Links
 
 - GitHub: https://github.com/paulowiniciusjr  
