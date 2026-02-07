@@ -1,19 +1,19 @@
-# Olá, meu nome é Paulo Winicius 👋  
+# Hi, my name is Paulo Winicius 👋  
 ### Backend Engineer | Java & Spring Specialist | Systems Builder
 
 ---
 
-## 💻 Sobre mim
+## 💻 About Me
 
-Backend Engineer specialized in **Java & Spring Boot**, focused on building **scalable and production-grade systems**. Strong interest in **system design, clean architecture and DevOps practices**.
+Backend Engineer specialized in **Java & Spring Boot**, focused on building **scalable and production-grade systems**. Strong interest in **system design, clean architecture, and DevOps practices**.
 
-Experience with **REST APIs, authentication, and enterprise environments**, with complementary frontend knowledge in **Angular**.
+Experience working with **REST APIs, authentication, and enterprise environments**, with complementary frontend knowledge in **Angular**.
 
-I build software that is not only functional, but also **maintainable, reliable and ready for real-world production**.
+I build software that is not only functional, but also **maintainable, reliable, and ready for real-world production**.
 
 ---
 
-## 🚀 Principais Tecnologias
+## 🚀 Core Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java"/>
@@ -26,13 +26,13 @@ I build software that is not only functional, but also **maintainable, reliable 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="SQL"/>
 </p>
 
-**Outras tecnologias e práticas:**
+**Other technologies and practices:**
 
 `JasperReports` • `REST APIs` • `Authentication & Security` • `CI/CD` • `Clean Architecture`
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=paulowiniciusjr&show_icons=true&theme=default&hide_border=true"/>
@@ -41,7 +41,7 @@ I build software that is not only functional, but also **maintainable, reliable 
 
 ---
 
-## 🔥 Streak de Contribuições
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=paulowiniciusjr&hide_border=true"/>
@@ -49,7 +49,7 @@ I build software that is not only functional, but also **maintainable, reliable 
 
 ---
 
-## 🌐 Minhas redes sociais
+## 🌐 Social Links
 
 - GitHub: https://github.com/paulowiniciusjr  
 - LinkedIn: https://linkedin.com/in/paulo-winicius-silva-junior-85303a3b/
