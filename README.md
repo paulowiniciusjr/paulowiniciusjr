@@ -1,4 +1,4 @@
-# Hi, my name is Paulo Winicius 👋  
+# Hi, my name is Paulo Winicius
 ### Backend Engineer | Java & Spring Specialist | Systems Builder
 
 ---
